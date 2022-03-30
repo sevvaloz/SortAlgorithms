@@ -1,0 +1,16 @@
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.exe
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.deps.json
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.runtimeconfig.json
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.runtimeconfig.dev.json
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.dll
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\ref\SiralamaAlgoritmalari.dll
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\bin\Debug\net5.0\SiralamaAlgoritmalari.pdb
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.csproj.AssemblyReference.cache
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.AssemblyInfoInputs.cache
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.AssemblyInfo.cs
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.csproj.CoreCompileInputs.cache
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.dll
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\ref\SiralamaAlgoritmalari.dll
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.pdb
+C:\Users\holly\Desktop\SiralamaAlgoritmalari\SiralamaAlgoritmalari\obj\Debug\net5.0\SiralamaAlgoritmalari.genruntimeconfig.cache
